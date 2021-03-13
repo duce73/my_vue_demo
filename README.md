@@ -1,6 +1,6 @@
 # my_vue_demo
 
-> A Vue.js project
+> 基于vue2.0的简单应用，通过姓名搜索github账户并进行显示
 
 ## Build Setup
 
